@@ -20,17 +20,18 @@ There are four sketches that will introduce you into Arduino features we'll use 
 
 ## Android app ##
 
-Simple bluetooth remote control App in Kotlin by Eduard Kovnatsky.
+Simple bluetooth remote control App in Kotlin by [Eduard Kovnatsky](https://github.com/PalmZE).
 
 You can build it from source. Grab it here: https://github.com/PalmZE/RobotBrain
 
 To do this you need Android Studio 3+ (now in Beta only 2017.09.22) and Kotlin plugin (you will be asked to install it when you import the project).
-[apk file](../master/RobotBrain.apk)
+
+Or you can just install prebuilt [apk file](../master/RobotBrain.apk)
 
 
 Legacy app if you want to build Java app instead:
 
 [LED directory](../master/LED) contains Android remote-control app sources. It is slightly modified version of app found in this tutorial http://www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/
 
-You can just install prebuilt  [apk file](../master/rc.apk) or download [Android Studio](https://developer.android.com/studio/index.html) and build app from source.
+You can just install prebuilt [apk file](../master/rc.apk) or download [Android Studio](https://developer.android.com/studio/index.html) and build app from source.
 
