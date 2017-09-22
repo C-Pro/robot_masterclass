@@ -19,7 +19,7 @@ There are four sketches that will introduce you into Arduino features we'll use 
 
 ## Android app ##
 
-[LED directory](../blob/master/LED) contains Android remote-control app sources. It is slightly modified version of app found in this tutorial http://www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/
+[LED directory](../master/LED) contains Android remote-control app sources. It is slightly modified version of app found in this tutorial http://www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/
 
 You can just install prebuilt  [apk file](../master/rc.apk) or download [Android Studio](https://developer.android.com/studio/index.html) and build app from source.
 
