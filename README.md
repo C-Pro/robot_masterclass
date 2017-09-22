@@ -24,7 +24,7 @@ Simple bluetooth remote control App in Kotlin by [Eduard Kovnatsky](https://gith
 
 You can build it from source. Grab it here: https://github.com/PalmZE/RobotBrain
 
-To do this you need Android Studio 3+ (now in Beta only 2017.09.22) and Kotlin plugin (you will be asked to install it when you import the project).
+To do this you need [Android Studio 3+](https://developer.android.com/studio/preview/index.html) (now in Beta only 2017.09.22) and Kotlin plugin (you will be asked to install it when you import the project).
 
 Or you can just install prebuilt [apk file](../master/RobotBrain.apk)
 
